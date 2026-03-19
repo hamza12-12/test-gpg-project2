@@ -1,15 +1,10 @@
 {
   "name": "test-gpg-project2",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "live-server --port=3000",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://github.com/hamza12-12/test-gpg-project2#readme"
+  "description": "مشروعي على GitHub Pages",
+  "homepage": "https://hamza12-12.github.io/test-gpg-project2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza12-12/test-gpg-project2.git"
+  }
 }
